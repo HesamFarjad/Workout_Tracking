@@ -7,8 +7,6 @@ import os
 # HEIGHT_CM = "YOUR HEIGHT"
 # AGE = "YOUR AGE"
 
-# APP_ID = "30368d06"
-# API_KEY = "5f740db3fc59f97c21c13293640c1b65"
 APP_ID = os.environ["NT_APP_ID"]
 API_KEY = os.environ["NT_API_KEY"]
 
